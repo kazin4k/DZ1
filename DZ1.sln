@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35424.110 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tumakov", "Tumakov\Tumakov.csproj", "{4BACD57C-1737-4497-91D9-EF15B89A4272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadachi iz faila", "Zadachi iz faila\Zadachi iz faila.csproj", "{6F32DD44-043B-429A-BDAB-BBF81CEF5C0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BACD57C-1737-4497-91D9-EF15B89A4272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BACD57C-1737-4497-91D9-EF15B89A4272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BACD57C-1737-4497-91D9-EF15B89A4272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BACD57C-1737-4497-91D9-EF15B89A4272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F32DD44-043B-429A-BDAB-BBF81CEF5C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F32DD44-043B-429A-BDAB-BBF81CEF5C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F32DD44-043B-429A-BDAB-BBF81CEF5C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F32DD44-043B-429A-BDAB-BBF81CEF5C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
